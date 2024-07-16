@@ -1,0 +1,14 @@
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/bin/Debug/net8.0/consoleApp
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/bin/Debug/net8.0/consoleApp.deps.json
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/bin/Debug/net8.0/consoleApp.runtimeconfig.json
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/bin/Debug/net8.0/consoleApp.dll
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/bin/Debug/net8.0/consoleApp.pdb
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/obj/Debug/net8.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/obj/Debug/net8.0/consoleApp.AssemblyInfoInputs.cache
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/obj/Debug/net8.0/consoleApp.AssemblyInfo.cs
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/obj/Debug/net8.0/consoleApp.csproj.CoreCompileInputs.cache
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/obj/Debug/net8.0/consoleApp.dll
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/obj/Debug/net8.0/refint/consoleApp.dll
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/obj/Debug/net8.0/consoleApp.pdb
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/obj/Debug/net8.0/consoleApp.genruntimeconfig.cache
+/home/subash/Programming/Backend/ASP.NETCore/consoleApp/obj/Debug/net8.0/ref/consoleApp.dll
